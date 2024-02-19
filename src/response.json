@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Ram",
+        "city": "Chennai",
+        "skills": [
+            "Football",
+            "Running",
+            "Swimming"
+        ],
+        "vehicle": {
+            "model": "Mercedes",
+            "year": 2022
+        }
+    },
+    {
+        "name": "Uttkarsh",
+        "city": "Nagpur",
+        "skills": [
+            "Dancing",
+            "Youtuber",
+            "Gaming"
+        ],
+        "vehicle": {
+            "model": "Mustang",
+            "year": 2021
+        }
+    },
+    {
+        "name": "Meghs",
+        "city": "Mumbai",
+        "skills": [
+            "Gaming",
+            "Trading",
+            "Travelling"
+        ],
+        "vehicle": {
+            "model": "Porsche",
+            "year": 2004
+        }
+    }
+]
